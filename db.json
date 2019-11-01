@@ -1,0 +1,100 @@
+{
+    "matched_users": [
+              {
+                  "display_name": "Laila Ashiqani",
+                  "user_id": "1572",
+                  "user_type": "1",
+                  "profile_image":"file:///android_asset/fakedata/images/1572.jpg" 
+              },
+              {
+                  "display_name": "Marjani",
+                  "user_id": "1957",
+                  "user_type": "1",
+                  "profile_image":"file:///android_asset/fakedata/images/1572.jpg" 
+              },
+              {
+                  "display_name": "Haifa Habibi",
+                  "user_id": "4982",
+                  "user_type": "1",
+                  "profile_image":"file:///android_asset/fakedata/images/1572.jpg" 
+              },
+              {
+                  "display_name": "Imane al-Shahdi",
+                  "user_id": "5743",
+                  "user_type": "1",
+                  "profile_image":"file:///android_asset/fakedata/images/1572.jpg" 
+              }
+    ],
+
+    "member" : 
+      {
+          "display_name": "Ghous Khan",
+          "account_id": "465392",
+          "user_type": "1",
+          "user_id": "8905",
+          "profile_image": "file:///android_asset/fakedata/images/ghous.jpg"
+      }
+      
+"messages": [      
+      {
+          "message": "Assalam o Alaikum",
+          "response": "Waliakum Assalam"
+      },
+      {
+        "message": "How are you?",
+        "response": "I am fine and you?"
+      },
+      {
+        "message": "How are you?",
+        "response": "I am fine and you?"
+      },
+      {
+        "message": "Hey Hows it going",
+        "response": "I am great"
+      },
+      {
+        "message": "How is your family?",
+        "response": "They are fine!"
+      },
+      {
+        "message": "What's up",
+        "response": "Nothing much, just chilling after long day at work"
+      },
+      {
+        "message": "Would you like to go out for a meal tonight?",
+        "response": "Sure would love that"
+      },
+      {
+        "message": "When are you planning to get married",
+        "response": "Soon Inshallah, just need to find the right person"
+      },
+      {
+        "message": "What's your favourite colour",
+        "response": "Pink off course"
+      },
+      {
+        "message": "I am having a party at our apartment, would like to join",
+        "response": "Yeah would love that, would get to meet your friends too"
+      },
+      {
+        "message": "How is the weahter at your end?",
+        "response": "The weather here is nice and sunny"
+      },
+      {
+        "message": "What's your plans for tonight?",
+        "response": "Nothing much, just planning to watch some TV and relax"
+      },
+      {
+        "message": "Ok I got to go now",
+        "response": "No worries, speak to you soon"
+      },
+      {
+        "message": "Byeee",
+        "response": "Byeeeeeee"
+      },
+            {
+        "message": "Fi Amaan Allah",
+        "response": "Fi Amaan Allah"
+      }
+      
+}
