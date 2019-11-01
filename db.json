@@ -33,7 +33,7 @@
           "user_type": "1",
           "user_id": "8905",
           "profile_image": "file:///android_asset/fakedata/images/ghous.jpg"
-      }
+      },
       
 "messages": [      
       {
@@ -92,9 +92,10 @@
         "message": "Byeee",
         "response": "Byeeeeeee"
       },
-            {
+      {
         "message": "Fi Amaan Allah",
         "response": "Fi Amaan Allah"
       }
+    ]
       
 }
